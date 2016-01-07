@@ -44,3 +44,21 @@ DOs|NOT
 ---|---
 ID, id, userID, GUID, guid, idFromObject|Id, userId, GUId, guId, IdFromObject
 OK, ok, OKButton, okButton, statusIsOK|Ok, OkButton, statusIsOk
+
+# Log or Sign, In/Out or On/Off
+
+Actually, there is no critical difference between those combines,
+you can use whichever you want and neither is wrong.
+
+But when using "Log" as the left part, it is well accepted that the whole term can be recognized as a compound word,
+
+this means:
+
+DOs|NOT
+---|---
+Login, logon|logIn, LogOn
+logout, Logoff|LogOut, logOff
+
+Furthermore, Login & Logon are often used as equivaluents or alternates terms to Account, Identity or other similair terms.
+
+So "Sign" is usually prefered for other uses.
