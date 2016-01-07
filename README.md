@@ -15,7 +15,7 @@ Id|id|ID
 Indexes|indexes|Indices
 LogOff|logOff|LogOut
 LogOn|logOn|LogIn
-Metadata|metadata|MetaData, metaData
+Metadata|metadata|MetaData
 Multipanel|multipanel|MultiPanel
 Multiview|multiview|MultiView
 Namespace|namespace|NameSpace
