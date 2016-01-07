@@ -1,5 +1,7 @@
 # Naming
 
+Most of below camse from https://msdn.microsoft.com/en-us/library/ms229043(v=vs.110).aspx
+
 Pascal|Camel|Not
 ------|-----|---
 BitFlag|bitFlag|Bitflag
