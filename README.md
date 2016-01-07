@@ -64,3 +64,8 @@ Furthermore, Login & Logon are often used as equivaluents or alternates terms to
 So "Sign" is usually prefered for other uses,
 
 and to reduce confusions, In/Out are always prefered before On/Off.
+
+DOs|NOT
+---|---
+SignIn|signOn,Signin
+SignOut|SignOff, signout
