@@ -45,7 +45,7 @@ OK, ok, OKButton, okButton, statusIsOK|Ok, OkButton, statusIsOk
 
 # Log or Sign, In/Out or On/Off
 
-Actually, there is no critical difference between those combines,
+Actually, there is no key difference between those combines,
 you can use whichever you want and neither is wrong.
 
 But when using "Log" as the left part, it is well accepted that the whole term can be recognized as a compound word,
